@@ -1,8 +1,8 @@
 class Tmuxedo < Formula
   desc "A Cleaner, Modular Approach to Tmux Configuration"
   homepage "https://github.com/AranBorkum/tmuxedo"
-  url "https://github.com/AranBorkum/tmuxedo/archive/refs/tags/v0.1.13.tar.gz"
-  sha256 "d2faf4713120d49f4f2d559d4b8a0b0c47a06fd8a96bd1f423de281a930f9fdb"
+  url "https://github.com/AranBorkum/tmuxedo/archive/refs/tags/v0.1.14.tar.gz"
+  sha256 "c298cd4e8693570d80f10eebe81a8dc02f14fbdafe72486fd355b57790b04544"
   license "MIT" # or your license
 
   depends_on "rust" => :build
