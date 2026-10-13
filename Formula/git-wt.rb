@@ -12,6 +12,6 @@ class GitWt < Formula
   end
 
   test do
-    assert_match "git wt <command>", shell_output("#{bin}/git-wt")
+    assert_match "git wt <command>", shell_output("#{bin}/git-wt", 1)
   end
 end
