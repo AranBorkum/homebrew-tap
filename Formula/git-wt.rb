@@ -1,4 +1,4 @@
-class GitThis < Formula
+class GitWt < Formula
   desc "A collection of useful Git commands written in Bash"
   homepage "https://github.com/AranBorkum/git-wt"
   url "https://github.com/AranBorkum/git-wt/archive/refs/tags/v0.1.0.tar.gz"
